@@ -1,5 +1,5 @@
 # dl_book
-scrapper of many book websites
+scrapper of several book websites.
 
 # Usage
 
